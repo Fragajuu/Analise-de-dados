@@ -6,7 +6,7 @@ from datetime import datetime
 import math
 
 # ---------------- INITIAL CONFIGURATION ----------------
-MAP_KEY = "bcf23ed4836acdeb1c308434b1259e33"
+MAP_KEY = "map-key"
 SATELLITES = ["MODIS_NRT", "VIIRS_NOAA20_NRT", "VIIRS_SUOMI_NPP_NRT"]
 TIMEOUT = 30  # seconds for requests
 
